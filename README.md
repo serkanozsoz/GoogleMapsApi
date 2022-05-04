@@ -11,7 +11,7 @@ Google Maps Api teknolojisi kullanılarak oluşturulmuş projedir.
 ```
  
 ### 1-
-![map1](https://user-images.githubusercontent.com/100076932/166807189-5e2f51a5-f1d8-44d5-9b85-582a44cb491a.png)
+![map11](https://user-images.githubusercontent.com/100076932/166809709-a630f971-3c92-4957-ae45-af05fbac2451.jpg)
 
 ### 2-
 ![map22](https://user-images.githubusercontent.com/100076932/166809247-067cccf6-cc3b-420a-8a86-40d3d354cd55.jpg)
