@@ -3,8 +3,9 @@ Bu repoda Google Maps Api kullanarak bir proje oluşturulmuştur.
 ## Açıklama
 ```
 Kullanıcının map üzerinde;
-Arama motorunda eklediği konumlara nasıl gidebileceği,
-Eklenen ve tekrar silinebilen konumlara ne kadar sürede gidebileceği
+-Arama motorunda eklediği konumlara nasıl gidebileceği,
+-Eklenen ve tekrar silinebilen konumlara ne kadar sürede gidebileceği,
+-Kullanıcının bulunduğu konumu görebileceği
 hedef alınarak Javascript,Html ve Css kodlarını barındıran ve 
 Google Maps Api teknolojisi kullanılarak oluşturulmuş projedir.
 ```
@@ -13,4 +14,4 @@ Google Maps Api teknolojisi kullanılarak oluşturulmuş projedir.
 ![map1](https://user-images.githubusercontent.com/100076932/166807189-5e2f51a5-f1d8-44d5-9b85-582a44cb491a.png)
 
 ### 2-
-![map2](https://user-images.githubusercontent.com/100076932/166807201-2b6087ee-58ed-4f0c-81e8-4c94f5b0520f.png)
+![map22](https://user-images.githubusercontent.com/100076932/166809247-067cccf6-cc3b-420a-8a86-40d3d354cd55.jpg)
