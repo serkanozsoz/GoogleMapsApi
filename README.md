@@ -2,7 +2,11 @@
 Bu repoda Google Maps Api kullanarak bir proje oluşturulmuştur.
 ## Açıklama
 ```
-Kullanıcının harita üzerinde seçtiği veya arama motorunda eklediği konumlara nasıl gidebileceği ve ne kadar sürede gidebileceği hedef alınarak Javascript,Html ve Css kodlarını barındıran ve Google Maps Api teknolojisi kullanılarak oluşturulmuş projedir.
+Kullanıcının map üzerinde;
+Arama motorunda eklediği konumlara nasıl gidebileceği,
+Eklenen ve tekrar silinebilen konumlara ne kadar sürede gidebileceği
+hedef alınarak Javascript,Html ve Css kodlarını barındıran ve 
+Google Maps Api teknolojisi kullanılarak oluşturulmuş projedir.
 ```
  
 ### 1-
